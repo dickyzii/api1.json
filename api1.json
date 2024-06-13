@@ -1,11 +1,47 @@
-{"success":true,"product":[
-    
-    {"ProductID":"1","ProductName":"Gun-Toy","UnitPrice":"$10","UnitsInStock":"39","UnitsOnOrder":"0","ReorderLevel":"10","Discontinued":"0","url":"https://images.tokopedia.net/img/cache/900/VqbcmM/2022/1/15/562ee28c-3ab1-44d9-95e7-ae2cf4784df7.jpg"},
-
-    {"ProductID":"1","ProductName":"T-Shirt","UnitPrice":"$20","UnitsInStock":"39","UnitsOnOrder":"0","ReorderLevel":"10","Discontinued":"0","url":"https://images.tokopedia.net/img/cache/200-square/hDjmkQ/2022/1/11/9e13f3e5-9cb4-4d2d-8fbb-7b59c740b343.jpg.webp?ect=4g"},
-
-    {"ProductID":"1","ProductName":"Figure","UnitPrice":"$30","UnitsInStock":"39","UnitsOnOrder":"0","ReorderLevel":"10","Discontinued":"0","url":"https://images.tokopedia.net/img/cache/200-square/product-1/2020/9/19/13004632/13004632_46e3a916-8620-42c8-af63-f62bf3543519_1499_1499.webp?ect=4g"},
-
-    {"ProductID":"1","ProductName":"Monopoli","UnitPrice":"$15","UnitsInStock":"39","UnitsOnOrder":"0","ReorderLevel":"10","Discontinued":"0","url":"https://images.tokopedia.net/img/cache/200-square/attachment/2019/8/1/156467149230274/156467149230274_96cb5335-9cf9-4841-9dea-1f7bd5aa9968.png.webp?ect=4g"}
-
-    ],"totalRecordCount":10,"version":"17.0.13"}
+{
+  "success": true,
+  "product": [
+    {
+      "ProductID": "1",
+      "ProductName": "Gun-Toy",
+      "UnitPrice": "$10",
+      "UnitsInStock": "39",
+      "UnitsOnOrder": "0",
+      "ReorderLevel": "10",
+      "Discontinued": "0",
+      "url": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/1/15/562ee28c-3ab1-44d9-95e7-ae2cf4784df7.jpg"
+    },
+    {
+      "ProductID": "1",
+      "ProductName": "T-Shirt",
+      "UnitPrice": "$20",
+      "UnitsInStock": "39",
+      "UnitsOnOrder": "0",
+      "ReorderLevel": "10",
+      "Discontinued": "0",
+      "url": "https://images.tokopedia.net/img/cache/200-square/hDjmkQ/2022/1/11/9e13f3e5-9cb4-4d2d-8fbb-7b59c740b343.jpg.webp?ect=4g"
+    },
+    {
+      "ProductID": "1",
+      "ProductName": "Figure",
+      "UnitPrice": "$30",
+      "UnitsInStock": "39",
+      "UnitsOnOrder": "0",
+      "ReorderLevel": "10",
+      "Discontinued": "0",
+      "url": "https://images.tokopedia.net/img/cache/200-square/product-1/2020/9/19/13004632/13004632_46e3a916-8620-42c8-af63-f62bf3543519_1499_1499.webp?ect=4g"
+    },
+    {
+      "ProductID": "1",
+      "ProductName": "Monopoli",
+      "UnitPrice": "$15",
+      "UnitsInStock": "39",
+      "UnitsOnOrder": "0",
+      "ReorderLevel": "10",
+      "Discontinued": "0",
+      "url": "https://images.tokopedia.net/img/cache/200-square/attachment/2019/8/1/156467149230274/156467149230274_96cb5335-9cf9-4841-9dea-1f7bd5aa9968.png.webp?ect=4g"
+    }
+  ],
+  "totalRecordCount": 10,
+  "version": "17.0.13"
+}
